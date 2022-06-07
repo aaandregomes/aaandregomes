@@ -2,7 +2,7 @@
 
 
 - 👨🏻‍💻 Atualmente trabalho com vendas on-line!
-- 😎 Faço faculdade de Analises e desenvolvimento de sistemas pela Universidade Anhembi Morumbi.
+- 😎 Faço faculdade de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
 - 👾 Busco uma mudança de carreira como desenvolvedor.
 
 <div align="center">
