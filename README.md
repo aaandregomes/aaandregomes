@@ -19,6 +19,6 @@
   ##
   </div> 
   <a href="https://www.linkedin.com/in/andr%C3%A9-gomes-948a98239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href = "mailto:andregomesbuenos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>
+   <a href = "mailto:andregomes.santanaa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"_blank"></a>
   
   </div> 
